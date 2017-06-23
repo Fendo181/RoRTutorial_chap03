@@ -1,4 +1,11 @@
 # Ruby on Rails チュートリアルのサンプルアプリケーション
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
+## version
+
+- Ruby 2.4.1
+- Rails 5.1.0
+
 
 これは、次の教材で作られたサンプルアプリケーションです。   
 [*Ruby on Rails チュートリアル: 実例を使って Rails を学ぼう*](http://railstutorial.jp/)
