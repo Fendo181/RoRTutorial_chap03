@@ -18,7 +18,6 @@ class StaticPagesControllerTest < ActionDispatch::IntegrationTest
     assert_select "title","Help | #{@base_title}"
   end
 
-  #Failed Tets
   test "should get about" do
     get static_pages_about_url
     assert_response :success
